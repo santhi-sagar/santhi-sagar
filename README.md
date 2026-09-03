@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 Working on Data Analytics, Machine Learning & AI/LLM projects<br>👯 Looking to collaborate on Python, Data Science & AI projects<br>🤝 Looking for help with production-ready ML/AI & backend development<br>🌱 Currently learning LLMs, RAG, LangChain & advanced ML<br>💬 Ask me about Python, SQL, Power BI, ML, REST APIs & Data Analysis<br>⚡ Fun fact: I enjoy building practical solutions from data and AI 🚀
+🔭 Working on Data Analytics, Machine Learning & AI/LLM projects<br>👯 Looking to collaborate on Python, Data Science & AI projects<br>🤝 Looking for help with production-ready ML/AI & backend development<br>🌱 Currently Working on LLMs, RAG, LangChain & advanced ML<br>💬 Ask me about Python, SQL, Power BI, ML, REST APIs & Data Analysis<br>⚡ Fun fact: I enjoy building practical solutions from data and AI 🚀
 
 
 ## 🌐 Socials:
